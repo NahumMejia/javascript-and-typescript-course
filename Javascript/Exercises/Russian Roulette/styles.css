@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+main {
+    text-align: center;
+}
+
+.userText {
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+.wave{
+    width: 100px;
+}
+
+.surviveButton {
+    display: block;
+    margin: 10px auto;
+    background-color: beige;
+    border-radius: 20px;
+}
